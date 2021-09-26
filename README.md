@@ -2,4 +2,4 @@
 
 ## Quick start
 
-Open with live server
+Open with live server.
